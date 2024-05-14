@@ -1,5 +1,6 @@
 #import "AppDelegate+DeepLinkDelegatePlugin.h"
 #import "AppsFlyerPlugin.h"
+#import "AppDelegate.h"
 
 @implementation AppDelegate (DeepLinkDelegatePlugin)
 
